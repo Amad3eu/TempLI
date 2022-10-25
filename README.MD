@@ -5,7 +5,7 @@
 ## **An app made to get weather information through the terminal**
 
 <p align="center">
-  <img width=40% height=40% src="https://github.com/Amad3eu/TempLI/.github/main/cloud.gif?raw=true" alt="cloud">
+  <img width=40% height=40% src="https://github.com/Amad3eu/TempLI/blob/main/.github/assets/cloud.gif?raw=true" alt="cloud">
 </p>
 
 [![Status Badge](https://github.com/Amad3eu/TempLI/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Amad3eu/TempLI/actions/workflows/build.yml)
